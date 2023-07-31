@@ -16,4 +16,11 @@ APPROVED_JOBS = [
 ]
 
 class Person:
+    ahsiodhai
+    ahsiodhai
+    ahsiodhai
+    ahsiodhai
+    ahsiodhai
+    ahsiodhai
+    ahsiodhai
     pass
